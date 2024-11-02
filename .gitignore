@@ -1,0 +1,12 @@
+# Ignore Go binaries
+/bin/
+/*.exe
+/*.exe~
+/*.out
+
+# Ignore Go module files
+go.sum
+
+# Ignore IDE files
+.idea/
+.vscode/
